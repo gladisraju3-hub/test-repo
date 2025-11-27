@@ -1,5 +1,5 @@
 # test-repo
 My first Git repo.
 <br>
-Initial test file
+This is an initial test file.
 </br>
